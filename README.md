@@ -4,6 +4,8 @@ LSST light-curve simulations based on ELASTICC models and Obsv4.3 (before Ocean 
 
 Explore this dataset using [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fink-analyses/Tutorial_LSST_sims_2025/blob/main/inspect_lcs_asbroker.ipynb)
 
+Visualisation challenge [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fink-analyses/Tutorial_LSST_sims_2025/blob/main/visualisation_challenge.ipynb)
+
 ## Simulations
 Simulations done with [SNANA](https://github.com/RickKessler/SNANA) and/or [PIPPIN](https://github.com/dessn/Pippin).
 
